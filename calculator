@@ -1,0 +1,2 @@
+Console.WriteLine (" enter your name");
+Console.WriteLine(" enter your Roll number");
